@@ -1,7 +1,7 @@
 # Oranges In Love With My Fly
 Game made for Ludum Dare 33
 
-[Click through here](http://vilix.xyz/?p=portfolio)
+[Click through here](https://vilda.net/?p=portfolio)
 
 If you took part, [rate here](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=29167)
 
